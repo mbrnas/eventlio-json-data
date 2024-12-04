@@ -3,64 +3,96 @@
         "id": 1,
         "title": "Food Truck Festival Bonanza",
         "date": "2024-11-27",
+        "time": "12:00 PM",
         "location": "Downtown, Los Angeles, CA",
         "description": "Enjoy a variety of cuisines from the best food trucks in town.",
-        "rsvpStatus": "Going"
+        "rsvpStatus": "Going",
+        "organizer": "LA Foodies",
+        "contact": "contact@lafoodies.com",
+        "category": "Food & Drink"
     },
     {
         "id": 2,
         "title": "Entrepreneur Networking Meetup",
         "date": "2024-11-29",
+        "time": "5:00 PM",
         "location": "Business Park, Seattle, WA",
         "description": "An opportunity for entrepreneurs to connect and collaborate.",
-        "rsvpStatus": "Not Going"
+        "rsvpStatus": "Not Going",
+        "organizer": "Startup Connect",
+        "contact": "info@startupconnect.com",
+        "category": "Networking"
     },
     {
         "id": 3,
         "title": "Wellness Retreat",
         "date": "2024-12-12",
+        "time": "9:00 AM",
         "location": "Mountain Resort, Asheville, NC",
         "description": "A relaxing retreat focusing on mindfulness and health.",
-        "rsvpStatus": "Going"
+        "rsvpStatus": "Going",
+        "organizer": "Wellness Inc.",
+        "contact": "retreats@wellnessinc.com",
+        "category": "Health & Wellness"
     },
     {
         "id": 4,
         "title": "Code Camp 2024",
         "date": "2024-12-05",
+        "time": "10:00 AM",
         "location": "Tech Valley, Denver, CO",
         "description": "A hands-on coding bootcamp for developers of all skill levels.",
-        "rsvpStatus": "Going"
+        "rsvpStatus": "Going",
+        "organizer": "DevLearn",
+        "contact": "info@devlearn.org",
+        "category": "Education"
     },
     {
         "id": 5,
         "title": "Art & Culture Festival",
         "date": "2024-12-10",
+        "time": "3:00 PM",
         "location": "City Square, Chicago, IL",
         "description": "A festival celebrating art, music, and culture from around the world.",
-        "rsvpStatus": "Not Going"
+        "rsvpStatus": "Not Going",
+        "organizer": "Cultural Alliance",
+        "contact": "events@culturalalliance.com",
+        "category": "Art & Culture"
     },
     {
         "id": 6,
         "title": "Startup Pitch Night",
         "date": "2024-11-30",
+        "time": "7:00 PM",
         "location": "Innovation Center, Austin, TX",
         "description": "An evening where startups pitch their ideas to investors.",
-        "rsvpStatus": "Going"
+        "rsvpStatus": "Going",
+        "organizer": "InvestorHub",
+        "contact": "pitch@investorhub.com",
+        "category": "Business"
     },
     {
         "id": 7,
         "title": "Fitness Workshop",
         "date": "2024-11-28",
+        "time": "8:00 AM",
         "location": "Health & Wellness Center, Miami, FL",
         "description": "A workshop focusing on fitness and healthy living.",
-        "rsvpStatus": "Going"
+        "rsvpStatus": "Going",
+        "organizer": "FitLife",
+        "contact": "workshops@fitlife.com",
+        "category": "Fitness"
     },
     {
         "id": 8,
         "title": "Holiday Gala",
         "date": "2024-12-20",
+        "time": "6:30 PM",
         "location": "Grand Ballroom, New York, NY",
         "description": "An annual gala to celebrate the holiday season.",
-        "rsvpStatus": "Not Going"
+        "rsvpStatus": "Not Going",
+        "organizer": "NYC Events",
+        "contact": "gala@nycevents.com",
+        "category": "Celebration"
     }
 ]
