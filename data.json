@@ -10,15 +10,6 @@
     },
     {
         "id": 2,
-        "title": "Entrepreneur Networking Meetup",
-        "date": "2024-11-29",
-        "location": "Business Park, Seattle, WA",
-        "description": "An opportunity for entrepreneurs to connect and collaborate.",
-        "rsvpStatus": "Not Going",
-        "imageName": "networking_meetup"
-    },
-    {
-        "id": 3,
         "title": "Wellness Retreat",
         "date": "2024-12-12",
         "location": "Mountain Resort, Asheville, NC",
@@ -27,7 +18,7 @@
         "imageName": "wellness_retreat"
     },
     {
-        "id": 4,
+        "id": 3,
         "title": "Code Camp 2024",
         "date": "2024-12-05",
         "location": "Tech Valley, Denver, CO",
@@ -36,7 +27,7 @@
         "imageName": "code_camp"
     },
     {
-        "id": 5,
+        "id": 4,
         "title": "Art & Culture Festival",
         "date": "2024-12-10",
         "location": "City Square, Chicago, IL",
@@ -45,7 +36,7 @@
         "imageName": "art_culture_festival"
     },
     {
-        "id": 6,
+        "id": 5,
         "title": "Startup Pitch Night",
         "date": "2024-11-30",
         "location": "Innovation Center, Austin, TX",
@@ -54,7 +45,7 @@
         "imageName": "startup_pitch_night"
     },
     {
-        "id": 7,
+        "id": 6,
         "title": "Fitness Workshop",
         "date": "2024-11-28",
         "location": "Health & Wellness Center, Miami, FL",
@@ -63,7 +54,7 @@
         "imageName": "fitness_workshop"
     },
     {
-        "id": 8,
+        "id": 7,
         "title": "Holiday Gala",
         "date": "2024-12-20",
         "location": "Grand Ballroom, New York, NY",
