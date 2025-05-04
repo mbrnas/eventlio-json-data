@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Food Truck Festival Bonanzaaa",
-        "date": "2024-11-27",
+        "date": "2025-11-27",
         "location": "Downtown, Los Angeles, CA",
         "description": "Enjoy a variety of cuisines from the best food trucks in town.",
         "rsvpStatus": "Going",
@@ -11,7 +11,7 @@
     {
         "id": 2,
         "title": "Wellness Retreat",
-        "date": "2024-12-12",
+        "date": "2025-12-12",
         "location": "Mountain Resort, Asheville, NC",
         "description": "A relaxing retreat focusing on mindfulness and health.",
         "rsvpStatus": "Going",
@@ -20,7 +20,7 @@
     {
         "id": 3,
         "title": "Code Camp 2024",
-        "date": "2024-12-05",
+        "date": "2025-12-05",
         "location": "Tech Valley, Denver, CO",
         "description": "A hands-on coding bootcamp for developers of all skill levels.",
         "rsvpStatus": "Going",
@@ -29,7 +29,7 @@
     {
         "id": 4,
         "title": "Art & Culture Festival",
-        "date": "2024-12-10",
+        "date": "2025-12-10",
         "location": "City Square, Chicago, IL",
         "description": "A festival celebrating art, music, and culture from around the world.",
         "rsvpStatus": "Not Going",
@@ -38,7 +38,7 @@
     {
         "id": 5,
         "title": "Startup Pitch Night",
-        "date": "2024-11-30",
+        "date": "2025-11-30",
         "location": "Innovation Center, Austin, TX",
         "description": "An evening where startups pitch their ideas to investors.",
         "rsvpStatus": "Going",
@@ -47,7 +47,7 @@
     {
         "id": 6,
         "title": "Fitness Workshop",
-        "date": "2024-11-28",
+        "date": "2025-11-28",
         "location": "Health & Wellness Center, Miami, FL",
         "description": "A workshop focusing on fitness and healthy living.",
         "rsvpStatus": "Going",
@@ -56,7 +56,7 @@
     {
         "id": 7,
         "title": "Holiday Gala",
-        "date": "2024-12-20",
+        "date": "2025-12-20",
         "location": "Grand Ballroom, New York, NY",
         "description": "An annual gala to celebrate the holiday season.",
         "rsvpStatus": "Not Going",
